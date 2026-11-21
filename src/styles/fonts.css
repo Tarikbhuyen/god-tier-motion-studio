@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&display=swap');
+
+:root {
+  --font-bengali: 'Hind Siliguri', -apple-system, sans-serif;
+  --font-heading: 'FK Grotesk', -apple-system, sans-serif;
+  --font-mono: 'FK Grotesk Mono', monospace;
+}
